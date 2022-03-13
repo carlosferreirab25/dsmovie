@@ -1,4 +1,3 @@
-import { count } from "console";
 import MovieStars from "../MovieStars";
 import './styles.css';
 
