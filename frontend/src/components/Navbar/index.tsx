@@ -12,7 +12,7 @@ function Navbar(): JSX.Element {
                 <a href="https://github.com/carlosferreirab25" target="_blank" rel="noreferrer">
                     <div className="dsmovie-contact-container">
                         <GithubIcon />
-                        <p className="dsmovie-contact-link">/devsuperior</p>
+                        <p className="dsmovie-contact-link">/CarlosFerreira</p>
                     </div>
                 </a>
             </div>
